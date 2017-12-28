@@ -23,5 +23,8 @@
       "version": "",
       "locator": "ios"
     }
-  ]
+  ],
+  "dependencies": {
+    "@ionic-native/camera": "^4.5.2"
+  }
 }
